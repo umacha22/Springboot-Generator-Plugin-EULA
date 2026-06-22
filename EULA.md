@@ -40,6 +40,3 @@ This license terminates automatically if you breach these terms. Upon terminatio
 
 This agreement is governed by the laws applicable in your jurisdiction of purchase through JetBrains Marketplace.
 
----
-
-_Customize this EULA as needed and upload it to your JetBrains Marketplace plugin listing._
